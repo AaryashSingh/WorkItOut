@@ -1,5 +1,5 @@
 import React from 'react'
-import img from '../../assets/landing page new.jpg'
+import img from '../../assets/landing page new1.jpg'
 
 export default function GuestIntro() {
   return (

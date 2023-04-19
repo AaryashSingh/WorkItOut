@@ -12,7 +12,7 @@ import dotenv from 'dotenv';
 
 dotenv.config();
 const app = express();
-const port = 8000;
+const port = 5090;
 const connectionUrl = process.env.ConnectionUrl;
 
 

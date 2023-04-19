@@ -12,7 +12,7 @@ export default function About() {
             <h2 className='font-bold text-2xl text-orange-600 bg-orange-200 p-2 m-2 rounded'>About Us</h2>
             <h1 className='font-extrabold text-5xl   p-2 m-2 rounded'>Welcome To Our</h1> 
             <h1 className='font-extrabold text-5xl  p-2 m-2 rounded'>Fitness Gym</h1>
-            <p className='p-4'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis aliquid, minima esse minus illo ex cum consequuntur dicta! Veritatis deleniti iusto, beatae quidem sed vero aperiam laboriosam eveniet sequi quae magnam doloribus nam distinctio quis mollitia rerum labore delectus vitae maxime doloremque consequatur debitis. Autem tempore recusandae ea sequi debitis....</p>
+            <p className='p-4'>Welcome to WorkItOut, where fitness meets personalization. We believe that every body is unique, and that's why we offer customized fitness plans tailored to your individual needs and goals.</p>
             <button className='p-3 m-3 border-2 border-orange-600 rounded-md hover:bg-orange-600 hover:text-white font-semibold transition-all duration-200'>Explore More</button>
             </div>
         </div>
